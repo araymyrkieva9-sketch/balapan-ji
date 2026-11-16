@@ -8,5 +8,6 @@
     { "binding": "DB", "database_name": "balapan-ji" }
   ],
   "vars": { "AI_DAILY_LIMIT": "60" },
+  "keep_vars": true,
   "observability": { "enabled": true }
 }
